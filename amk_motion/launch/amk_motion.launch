@@ -1,0 +1,3 @@
+<launch>
+    <node name="amk_node" pkg="amk_motion" type="amk_node" />
+</launch>
